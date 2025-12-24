@@ -23,7 +23,7 @@
              alt="LAB: MAC Spoofing">
       </a>
     </td>
-</tr>
+  </tr>
 </table>
 
 
