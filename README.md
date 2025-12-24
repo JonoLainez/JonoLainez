@@ -15,5 +15,15 @@
              alt="Threat Hunting with Splunk">
       </a>
     </td>
-  </tr>
+    
+  <td align="center" width="340" style="border: none; padding: 0;">
+      <a href="https://github.com/JonoLainez/LAB-MAC-Spoofing">
+        <img width="300"
+             src="https://github-readme-stats.vercel.app/api/pin/?username=JonoLainez&repo=LAB-MAC-Spoofing&theme=react&bg_color=355E3B&title_color=C1E1C1&text_color=FFFFFF&icon_color=98FB98&show_icons=true&border_radius=16&border_color=98FB98&border_width=3"
+             alt="LAB: MAC Spoofing">
+      </a>
+    </td>
+</tr>
 </table>
+
+
